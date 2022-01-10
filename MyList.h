@@ -8,7 +8,7 @@ struct node
 };
 //202002370
 //mndzebele mongi
-
+//eddited for gui
 typedef  node*  List;
            
 void Init  (List&);
