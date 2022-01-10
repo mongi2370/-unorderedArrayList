@@ -2,6 +2,7 @@
 #include <iostream>
 #include "MyList.h"
 
+//eddited for gui
 using namespace std;
 
 void Init (List& L)
