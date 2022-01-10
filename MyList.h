@@ -6,6 +6,8 @@ struct node
 { DataType data;
   node* next;
 };
+//202002370
+//mndzebele mongi
 
 typedef  node*  List;
            

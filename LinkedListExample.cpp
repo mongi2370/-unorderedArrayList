@@ -4,7 +4,8 @@
 #include <iostream>
 using namespace std;
 
-
+//202002370
+//mndzebele mongi
 int _tmain(int argc, _TCHAR* argv[]){
 	List L;
 	Init (L);

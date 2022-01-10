@@ -17,6 +17,9 @@ void Insert (DataType e, List& L)
   L = NewNode;
 }   
 
+//202002370
+//mndzebele mongi
+
 void Delete (DataType e, List& L)
 {List CurrNode = L;
     List PrevNode = NULL;
